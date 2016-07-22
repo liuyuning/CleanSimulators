@@ -1,6 +1,6 @@
 # CleanSimulators
 
-### Clear dumped iOS Simulators
+### Clear dumped iOS simulators
 
 Useage:
 ```shell
@@ -19,6 +19,7 @@ sudo killall -9 com.apple.CoreSimulator.CoreSimulatorService
 rm -rf ~/Library/Developer/CoreSimulator/Devices
 ```
 
-The Dumped Simulators!
+
+The dumped simulators!
 ![CleanSimulators](DumpSimulators.jpg)
 
