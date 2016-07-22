@@ -1,6 +1,4 @@
-# CleanSimulators
-
-### Clear dumped iOS simulators
+# CleanSimulators(Clear dumped iOS simulators)
 
 Useage:
 ```shell
