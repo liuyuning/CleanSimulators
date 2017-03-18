@@ -19,5 +19,5 @@ rm -rf ~/Library/Developer/CoreSimulator/Devices
 
 
 The dumped simulators!
-![CleanSimulators](DumpSimulators.jpg)
+![CleanSimulators](DumpSimulators.png)
 
